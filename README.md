@@ -7,7 +7,7 @@
 <h3>🌻 About me :</h3>
 <ul>
 <li>🌱 Currently learning all about data science </li>
-<li>🌐 Connect with me:
+<li>🤝 Connect with me:
 <a href="https://linkedin.com/in/adierckx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adierckx" height="15" width="20" /></a>
 </p>
 </ul>
